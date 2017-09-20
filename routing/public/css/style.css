@@ -1,0 +1,11 @@
+* {
+  font-family: monospace;
+  font-size: 24px;
+}
+body {
+  margin: 2% auto;
+  max-width: 1024px;
+}
+h1 {
+  color: lightskyblue;
+}
